@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "build",
+			"path": "full-stack-app/full-stack-app/server",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "npm: build - full-stack-app/full-stack-app/server",
+			"detail": "tsc"
+		}
+	]
+}
